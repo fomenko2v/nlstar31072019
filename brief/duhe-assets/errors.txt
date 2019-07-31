@@ -1,4 +1,0 @@
-[2019-7-31 13:34:48] layer "App.google копия": Expected end of input but "\u043A" found.
-[2019-7-31 13:34:48] layer "App.google копия 3": Expected end of input but "\u043A" found.
-[2019-7-31 13:34:48] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
-[2019-7-31 13:34:48] layer "App.google копия 3 copy": Expected end of input but "\u043A" found.
